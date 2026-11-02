@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"macro":[["array",1],["azip",1],["s",1]]};

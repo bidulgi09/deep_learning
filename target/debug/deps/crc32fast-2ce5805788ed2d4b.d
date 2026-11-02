@@ -1,0 +1,10 @@
+C:\Users\jinn\projects\deep_learning\target\debug\deps\crc32fast-2ce5805788ed2d4b.d: C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+C:\Users\jinn\projects\deep_learning\target\debug\deps\libcrc32fast-2ce5805788ed2d4b.rmeta: C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs
+
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\lib.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\baseline.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\combine.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\mod.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\table.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\crc32fast-1.5.4\src\specialized\pclmulqdq.rs:

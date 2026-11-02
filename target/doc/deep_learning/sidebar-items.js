@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","random_matrix"],"struct":["Adagrad","Adam","Affine","BatchNormalization","CrossEntropy","Momentum","Relu","SGD","Sigmoid","Softmax","SoftmaxWithLoss"],"trait":["Optimizer"]};

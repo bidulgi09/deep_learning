@@ -1,0 +1,11 @@
+C:\Users\jinn\projects\deep_learning\target\debug\deps\pest_generator-397b87aa629309ae.d: C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\lib.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\macros.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\docs.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\generator.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\parse_derive.rs
+
+C:\Users\jinn\projects\deep_learning\target\debug\deps\libpest_generator-397b87aa629309ae.rlib: C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\lib.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\macros.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\docs.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\generator.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\parse_derive.rs
+
+C:\Users\jinn\projects\deep_learning\target\debug\deps\libpest_generator-397b87aa629309ae.rmeta: C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\lib.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\macros.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\docs.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\generator.rs C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\parse_derive.rs
+
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\lib.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\macros.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\docs.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\generator.rs:
+C:\Users\jinn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\pest_generator-2.9.5\src\parse_derive.rs:

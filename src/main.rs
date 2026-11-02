@@ -2,6 +2,7 @@ use rand::RngExt;
 use ndarray::{Array6, Array4, Array2, Array1, ArrayD, Ix2, Ix4, Zip, Axis, s, Slice};
 use ndarray_npy::NpzReader;
 use std::fs::File;
+
 fn main() -> Result<(), Box<dyn std::error::Error>> {
     let mut npz = NpzReader::new(File::open("pokemon_dataset_split.npz")?)?;
     let x_train: Array4<f32> = npz.by_name("x_train.npy")?;
